@@ -222,7 +222,7 @@ p {
 
 /* home Section */
 #home {
-	background-image: url(./img/791f209f18a5d1ea84138aea9aa46d80.png);
+	background-image: url(../petSociety_FinalProwji/img/791f209f18a5d1ea84138aea9aa46d80.png);
 	background-size: cover;
 	background-position:  center;
 	position: relative;
@@ -623,7 +623,7 @@ max-width: 700px;
 	}
 	#header .header {
 		min-height: 8vh;
-		background-color: #4190FF;
+		background-color: #fff;
 		transition: 0.3s ease background-color;
 		width: auto;
 	}
@@ -866,7 +866,7 @@ max-width: 700px;
 	  }
 	  
 	  .isi {
-		color: #fff;
+		color: #595959;
 		font-family: 'Poppins', sans-serif;
 		font-size: 30px;
 		font-style: normal;
@@ -960,7 +960,7 @@ max-width: 700px;
 	}
 	#header .header {
 		min-height: 8vh;
-		background-color: #4190FF;
+		background-color: #fff;
 		transition: 0.3s ease background-color;
 	}
 	#header .nav-bar {
@@ -1285,7 +1285,7 @@ max-width: 700px;
 	}
 	#header .header {
 		min-height: 8vh;
-		background-color: #4190FF;
+		background-color: #fff;
 		transition: 0.3s ease background-color;
 	}
 	#header .nav-bar {
@@ -1517,11 +1517,11 @@ max-width: 700px;
 	.isi-container {
 		display: flex;
 		flex-direction: column;
-		gap: 15px; /* Ini akan memberikan jarak antar item isi */
+		/* gap: 15px; Ini akan memberikan jarak antar item isi */
 	  }
 	  
 	  .isi {
-		color: #fff;
+		color: #595959;
 		font-family: 'Poppins', sans-serif;
 		font-size: 30px;
 		font-style: normal;
